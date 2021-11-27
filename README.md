@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pharaohmak
 - 👀 I’m interested in Web Development, Data Science & Algorithims, and Entreprenuership
 - 🌱 I’m currently learning Full Stack Software Engineering
-- 💞️ I’m looking to collaborate on Building a Forex/Crypto Trading Bot
+- 💞️ I’m looking to collaborate on group projects
 - 📫 How to reach me pharaohmak@sleepingpharaoh.com
 
 <!---
