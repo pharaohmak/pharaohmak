@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pharaohmak
-- 👀 I’m interested in Web Development, Data Science & Algorithims, and Entreprenuership
-- 🌱 I’m currently learning Full Stack Software Engineering
+- 👀 I’m interested in Software Engineering, Mobile App Development, and eCommerce Development
+- 🌱 I’m currently learning Web Design and Development
 - 💞️ I’m looking to collaborate on group projects
 - 📫 How to reach me pharaohmak@sleepingpharaoh.com
 
