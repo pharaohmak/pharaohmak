@@ -3,23 +3,23 @@
 
 <p align="left"> <a href="https://twitter.com/pharaohmak" target="blank"><img src="https://img.shields.io/twitter/follow/pharaohmak?logo=twitter&style=for-the-badge" alt="pharaohmak" /></a> </p>
 
-- 🔭 I’m currently working on developing a music publishing app [Music-Player](https://github.com/pharaohmak/MusicPlayerApp.git)
+- 🔭 I am a freelance developer who works with small-business owners offering services in web development & design, mobile app development, and software design & interface.
 
-- 🌱 I’m currently learning **Mobile App Development**
+- 🌱 I’m currently enrolled at Full Sail University earning a bachalors degree in **Web Development & Design**
 
-- 👯 I’m looking to collaborate on [Blankly-Trading-Bot](https://github.com/blankly-finance/blankly.git)
+- 👯 I’m looking to collaborate with small-business owners to translate business requirements into technical solutions.
 
-- 🤝 I’m looking for help with [3D-Website-Theme](https://github.com/pharaohmak/CryptoPunksClone.git)
+- 🤝 I work with clients to build websites, develop mobile apps, and program custom software.
 
 - 👨‍💻 All of my projects are available at [https://github.com/pharaohmak?tab=repositories](https://github.com/pharaohmak?tab=repositories)
 
-- 📝 I regularly write articles on [I https://pharaohmak.wordpress.com/](I https://pharaohmak.wordpress.com/)
+- 📝 I regularly write articles on encourage immigrant youth to have the character, confidence and leadership skills to reach their full potential through cultural knowledge and appreciation, education, and entrepreneurship.
 
-- 💬 Ask me about **Web Design & Development**
+- 💬 Ask me about **Custom Code, Consultation and Advice , Troubleshooting & Debugging.**
 
 - 📫 How to reach me **pharaohmak@sleepingpharaoh.com**
 
-- 📄 Know about my experiences [https://www.sleepingpharaoh.com/static/media/resume.61436dde3e892df14519.pdf](https://www.sleepingpharaoh.com/static/media/resume.61436dde3e892df14519.pdf)
+- 📄 Visit my [portfolio website](https:/pharaohmak.github.io)
 
 - ⚡ Fun fact **There are only 10 kinds of people in this world: those who know binary and those who don’t.**
 
