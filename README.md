@@ -2,8 +2,7 @@
 <h3 align="center">A paassionate developer from Sudan</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/pharaohmak" target="blank"><img src="https://img.shields.io/twitter/follow/pharaohmak?logo=twitter&style=for-the-badge" alt="pharaohmak" /></a> </p>
-
+<p align="left"> <a href="https://twitter.com/pharaohmak" target="blank"><img src="https://img.shields.io/twitter/follow/pharaohmak?logo=twitter&style=for-the-badge" alt="pharaohmak" /></a> 
 
 <p align="right">
 <a href="https://twitter.com/pharaohmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pharaohmak" height="30" width="40" /></a>
@@ -11,6 +10,10 @@
 <a href="https://fb.com/mak ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mak ibrahim" height="30" width="40" /></a>
 <a href="https://instagram.com/sleeping.pharaoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sleeping.pharaoh" height="30" width="40" /></a>
 </p>
+</p>
+
+
+
 
 - 🔭 I am a freelance developer who works with small-business owners offering services in web development & design, mobile app development, and software design & interface.
 
