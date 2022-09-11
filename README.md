@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on encouraging immigrant youth to have the character, confidence and leadership skills to reach their full potential through cultural knowledge and appreciation, education, and entrepreneurship.
 
-- 💬 Ask me about **Custom Code, Consultation and Advice , Troubleshooting & Debugging.**
+- 💬 Ask me about **Custom Code, Consultation and Advice, or Troubleshooting & Debugging.**
 
 - 📫 How to reach me **pharaohmak@sleepingpharaoh.com**
 
