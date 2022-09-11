@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **pharaohmak@sleepingpharaoh.com**
 
-- 📄 Visit my [portfolio website](https:/pharaohmak.github.io)
-
 - ⚡ Fun fact **There are only 10 kinds of people in this world: those who know binary and those who don’t.**
 
 <h3 align="left">Connect with me:</h3>
