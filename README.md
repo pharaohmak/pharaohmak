@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Makram Ibrahim</h1>
-<h3 align="center">A passionate frontend developer from Sudan</h3>
+<h3 align="center">A paassionate developer from Sudan</h3>
 
 <p align="left"> <a href="https://twitter.com/pharaohmak" target="blank"><img src="https://img.shields.io/twitter/follow/pharaohmak?logo=twitter&style=for-the-badge" alt="pharaohmak" /></a> </p>
 
