@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pharaohmak?tab=repositories](https://github.com/pharaohmak?tab=repositories)
 
-- 📝 I regularly write articles on encourage immigrant youth to have the character, confidence and leadership skills to reach their full potential through cultural knowledge and appreciation, education, and entrepreneurship.
+- 📝 I regularly write articles on encouraging immigrant youth to have the character, confidence and leadership skills to reach their full potential through cultural knowledge and appreciation, education, and entrepreneurship.
 
 - 💬 Ask me about **Custom Code, Consultation and Advice , Troubleshooting & Debugging.**
 
