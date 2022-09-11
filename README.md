@@ -36,5 +36,5 @@
 
 <p>&nbsp;<img display="inline"align="center" src="https://github-readme-stats.vercel.app/api?username=pharaohmak&show_icons=true&locale=en" alt="pharaohmak" /></p>
 
-<p><img display="inline" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pharaohmak&" alt="pharaohmak" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pharaohmak&" alt="pharaohmak" /></p>
 
