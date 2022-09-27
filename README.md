@@ -23,7 +23,7 @@
 
 - 🤝 I work with clients to create custom technology solutions that helps better automate tasks to increase productivity.
 
-- 👨‍💻 All of my projects are available on [My Portfolio Website](https://github.com/pharaohmak?tab=repositories)
+- 👨‍💻 All of my projects are available on [My Portfolio Website](https://pharaohmak.github.io/)
 
 - 📝 I regularly write articles to encouraging immigrant youth to have the character, confidence and leadership skills to reach their full potential through cultural knowledge and appreciation, education, and entrepreneurship. [Visit Blog](https://pharaohmak.wordpress.com/)
 
