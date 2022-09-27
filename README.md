@@ -15,19 +15,19 @@
 
 
 
-- 🔭 I am a freelance developer who works with small-business owners offering services in web development & design, mobile app development, and software design & interface.
+- 🔭 My goal is to find trends in software solutions that may provide potentially competitive automated services in order to ensure your business continues to carefully carve its niche in the marketplace.
 
 - 🌱 I’m currently enrolled at Full Sail University earning a bachalors degree in **Web Development & Design**
 
 - 👯 I’m looking to collaborate with small-business owners to translate business requirements into technical solutions.
 
-- 🤝 I work with clients to build websites, develop mobile apps, and program custom software.
+- 🤝 I work with clients to create custom technology solutions that helps better automate tasks to increase productivity.
 
-- 👨‍💻 All of my projects are available at [https://github.com/pharaohmak?tab=repositories](https://github.com/pharaohmak?tab=repositories)
+- 👨‍💻 All of my projects are available on [My Portfolio Website](https://github.com/pharaohmak?tab=repositories)
 
-- 📝 I regularly write articles on encouraging immigrant youth to have the character, confidence and leadership skills to reach their full potential through cultural knowledge and appreciation, education, and entrepreneurship.
+- 📝 I regularly write articles to encouraging immigrant youth to have the character, confidence and leadership skills to reach their full potential through cultural knowledge and appreciation, education, and entrepreneurship.
 
-- 💬 Ask me about **Custom Code, Consultation and Advice, or Troubleshooting & Debugging.**
+- 💬 Ask me about **Custom Code, Consultation and Advice, or Troubleshooting & Debugging Techniques**
 
 - 📫 How to reach me **pharaohmak@sleepingpharaoh.com**
 
