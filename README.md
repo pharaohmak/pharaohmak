@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Makram Ibrahim</h1>
-<h3 align="center">Senior Software Engineer | DevOps Specialist | UX/UI Designer</h3>
+<h3 align="center">Senior Software Engineer | IT Automation Specialist</h3>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -11,21 +11,15 @@
 <a href="https://instagram.com/sleeping.pharaoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sleeping.pharaoh" height="30" width="40" /></a>
 </p>
 
-Hello, I'm Makram Ibrahim, a results-driven technology professional with a passion for creating custom solutions that empower small business owners. My expertise spans web development, mobile app development, IT automation, DevOps engineering, and UX/UI design. My mission is to help clients streamline their processes, enhance user experiences, and ensure they remain competitive in the ever-evolving digital landscape.
+Hello, I'm Makram Ibrahim, a results-driven technology professional with a passion for creating custom solutions that empower small business owners. My expertise spans in web development, mobile app development, IT automation, DevOps engineering, and UX/UI design. My mission is to help clients streamline their processes, enhance user experiences, and ensure they remain competitive in the ever-evolving digital landscape.
 
 ### 🔧 Technical Skills
-- Computer System and Network Knowledge
-- Adaptability and Quick Learning
-- Results-Oriented Problem Solver
+- Computer Programming and Coding
+- Object-Orianted Software Development
+- Software Testing and Debugging
 
-### 🚀 Intentions & Goals
-"My intention is to gain knowledge of new skills and expertise to make a positive contribution in the world."
-
+### Goals
 "My goal is to employ my knowledge, skills, and expertise to launch a professional career in the software development industry with opportunities for challenges and career advancement."
-
-- Reliable Source of Residual Income
-- Passive Income Investment Opportunities
-- Providing Financial Support, Knowledge, and Career Development Opportunities
 
 ### 📦 Services Offered
 
