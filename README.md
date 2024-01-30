@@ -11,7 +11,7 @@
 <a href="https://instagram.com/sleeping.pharaoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sleeping.pharaoh" height="30" width="40" /></a>
 </p>
 
-Hello, I'm Makram Ibrahim, a results-driven technology professional with a passion for creating custom solutions that empower small business owners. My expertise spans in web development, mobile app development, IT automation, DevOps engineering, and UX/UI design. My mission is to help clients streamline their processes, enhance user experiences, and ensure they remain competitive in the ever-evolving digital landscape.
+Hello, I'm Makram Ibrahim, a results-driven technology professional with a passion for crafting custom solutions that empower small business owners. My expertise spans web development, mobile app development, and software development. My mission is to assist clients in streamlining their processes, enhancing user experiences, and ensuring they remain competitive in the ever-evolving digital landscape. Let's collaborate and build something exceptional together!
 
 ### 🔧 Technical Skills
 - Computer Programming and Coding
@@ -71,7 +71,8 @@ A profile or interview-style blog post discussing Makram Ibrahim's vision, inten
 
 ### 📧 Let's Connect
 Feel free to reach out for collaboration, inquiries, or just to connect:
-- Email: [alchemist@sleepingpharaoh.com](mailto:email@example.com)
-- Website: [https://www.pharaohmak.github.io](https://www.pharaohmak.github.io)
+- Business Email: [alchemist@sleepingpharaoh.com](mailto:alchemist@sleepingpharaoh.com)
+- Personal Email: [pharaohmak@outlook.com](mailto:pharaohmak@outlook.com)
+- Portfolio Website: [https://www.pharaohmak.github.io](https://www.pharaohmak.github.io)
 
 Let's make a positive impact through technology and innovation!
