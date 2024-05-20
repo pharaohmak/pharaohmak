@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Makram Ibrahim</h1>
-<h3 align="center">Senior Software Engineer | IT Automation Specialist</h3>
+<h3 align="center">Senior Software Engineer | Automation Specialist</h3>
 
 <h3 align="left">Connect with me:</h3>
 
