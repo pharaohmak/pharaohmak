@@ -11,17 +11,9 @@
 <a href="https://instagram.com/sleeping.pharaoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sleeping.pharaoh" height="30" width="40" /></a>
 </p>
 
-Hello, I'm Makram Ibrahim, a results-driven technology professional with a passion for crafting custom solutions that empower small business owners. My expertise spans web development, mobile app development, and software development. My mission is to assist clients in streamlining their processes, enhancing user experiences, and ensuring they remain competitive in the ever-evolving digital landscape. Let's collaborate and build something exceptional together!
+Hello, I'm Makram Ibrahim, a results-driven technology professional with a passion for crafting custom solutions that empower small business owners. My goal is to employ my knowledge, skills, and expertise to launch a professional career in the software development industry with opportunities for challenges and career advancement. My expertise spans web development, mobile app development, and software development. My mission is to assist clients in streamlining their processes, enhancing user experiences, and ensuring they remain competitive in the ever-evolving digital landscape. Let's collaborate and build something exceptional together!
 
 ### 🔧 Technical Skills
-- Computer Programming and Coding
-- Object-Orianted Software Development
-- Software Testing and Debugging
-
-### Goals
-"My goal is to employ my knowledge, skills, and expertise to launch a professional career in the software development industry with opportunities for challenges and career advancement."
-
-### 📦 Services Offered
 
 - **Web Development and Design:** Crafting engaging and functional websites that resonate with a target audience.
 
@@ -33,18 +25,16 @@ Hello, I'm Makram Ibrahim, a results-driven technology professional with a passi
 
 - **UX/UI Design:** Elevating user experiences through intuitive and visually appealing interfaces.
 
-### 💼 Business Focus
-As a seasoned technology professional, my primary focus is to provide tailored technology solutions to small business owners, helping them automate tasks, increase productivity, and maintain a competitive edge. I believe in the power of technology to transform businesses and make a positive impact on the world.
-
-### 🌐 Market Trends
-I stay at the forefront of technology trends, continuously seeking out innovations such as increased digitization, automation, and mobile accessibility. This enables me to offer cutting-edge solutions that align with the evolving needs of my clients. I'm always on the lookout for emerging trends in software solutions, aiming to provide clients with the most cutting-edge and competitive services available. Key areas of interest include:
-- Increased Digitization
-- Automation
-- Mobile Accessibility
-
 ### 🌟 Projects
-- [Ship Handling Calculator App](#) - Our project was all about creating a Ship Handling Calculator app, a valuable tool for ship captains and navigators. This app simplifies complex calculations for stopping distance, turning radius, and maneuvering, helping ensure safe and efficient ship handling.My role in the project included designing and building the app, rigorous testing, user training, and ongoing updates to make sure it remains accurate and user-friendly. The app is now a vital resource for ship navigators, enhancing safety and efficiency in ship handling.
-- [Outcome Legal Website](#) - Our project involved creating a sleek and user-friendly website for a client. The website was designed to showcase their products and services and provide an excellent user experience. My contributions included designing and building the site, ensuring it worked flawlessly on all devices, and setting up a user-friendly content management system for the client. After thorough testing and training, we successfully deployed the website, offering ongoing support as needed. This project resulted in a professional online presence that met the client's goals.
+
+- [Ship Handling Calculator App](#) - The Ship Handling Calculator App project focused on developing a valuable tool for ship captains and navigators, simplifying complex calculations essential for safe and efficient ship handling. This app aids in determining stopping distance, turning radius, and maneuvering, providing critical support for maritime operations. The Ship Handling Calculator App has become an essential tool for ship navigators, significantly enhancing safety and efficiency in ship handling. By simplifying complex calculations and providing reliable results, the app supports better decision-making and contributes to safer maritime operations.
+
+- [Outcome Legal Website](#) - The Outcome Legal Website project involved creating a sleek, professional, and user-friendly website for a legal services client. The primary goal was to showcase their products and services while providing an excellent user experience. My role encompassed the entire web development process, from design to deployment, ensuring the final product met and exceeded the client’s expectations. The Outcome Legal Website project resulted in a professional online presence that effectively showcases the client’s products and services. The website met the client’s goals by providing an excellent user experience, increasing their online visibility, and facilitating client engagement through easy-to-use contact forms and a CMS.
+
+- [Ajack Mobile Mechanic Website](#) - For the Ajack Mobile Mechanic project, I leveraged best practices in HTML, CSS, and JavaScript to develop a comprehensive website that offers a seamless user experience. The primary goal was to create a user-friendly, responsive, and visually appealing site that effectively showcases the services offered by Ajack Mobile Mechanic. By focusing on these aspects, I created a professional and engaging website for Ajack Mobile Mechanic that not only attracts potential customers but also provides them with an easy and enjoyable browsing experience.
+
+- [Omarang Association Website](#) - The Omarang Association project was centered on building a compelling and engaging website to promote donations and volunteer participation to support the foundation’s initiatives. The website was designed to inspire visitors to contribute and get involved by highlighting the foundation’s mission, impact, and opportunities for support. By focusing on these elements, I created a powerful and engaging website for the Omarang Association that effectively communicates their mission and inspires visitors to support the foundation through donations and volunteer efforts.
+
 
 ### 📧 Let's Connect
 Feel free to reach out for collaboration, inquiries, or just to connect:
