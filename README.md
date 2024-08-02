@@ -25,16 +25,6 @@ Hello, I'm Makram Ibrahim, a results-driven technology professional with a passi
 
 - **UX/UI Design:** Elevating user experiences through intuitive and visually appealing interfaces.
 
-### 🌟 Projects
-
-- [Ship Handling Calculator App](#) - The Ship Handling Calculator App project focused on developing a valuable tool for ship captains and navigators, simplifying complex calculations essential for safe and efficient ship handling. This app aids in determining stopping distance, turning radius, and maneuvering, providing critical support for maritime operations. The Ship Handling Calculator App has become an essential tool for ship navigators, significantly enhancing safety and efficiency in ship handling. By simplifying complex calculations and providing reliable results, the app supports better decision-making and contributes to safer maritime operations.
-
-- [Outcome Legal Website](#) - The Outcome Legal Website project involved creating a sleek, professional, and user-friendly website for a legal services client. The primary goal was to showcase their products and services while providing an excellent user experience. My role encompassed the entire web development process, from design to deployment, ensuring the final product met and exceeded the client’s expectations. The Outcome Legal Website project resulted in a professional online presence that effectively showcases the client’s products and services. The website met the client’s goals by providing an excellent user experience, increasing their online visibility, and facilitating client engagement through easy-to-use contact forms and a CMS.
-
-- [Ajack Mobile Mechanic Website](#) - For the Ajack Mobile Mechanic project, I leveraged best practices in HTML, CSS, and JavaScript to develop a comprehensive website that offers a seamless user experience. The primary goal was to create a user-friendly, responsive, and visually appealing site that effectively showcases the services offered by Ajack Mobile Mechanic. By focusing on these aspects, I created a professional and engaging website for Ajack Mobile Mechanic that not only attracts potential customers but also provides them with an easy and enjoyable browsing experience.
-
-- [Omarang Association Website](#) - The Omarang Association project was centered on building a compelling and engaging website to promote donations and volunteer participation to support the foundation’s initiatives. The website was designed to inspire visitors to contribute and get involved by highlighting the foundation’s mission, impact, and opportunities for support. By focusing on these elements, I created a powerful and engaging website for the Omarang Association that effectively communicates their mission and inspires visitors to support the foundation through donations and volunteer efforts.
-
 
 ### 📧 Let's Connect
 Feel free to reach out for collaboration, inquiries, or just to connect:
