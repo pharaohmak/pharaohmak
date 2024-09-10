@@ -11,21 +11,26 @@
 <a href="https://instagram.com/sleeping.pharaoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sleeping.pharaoh" height="30" width="40" /></a>
 </p>
 
-Hello, I'm Makram Ibrahim, a results-driven technology professional with a passion for crafting custom solutions that empower small business owners. My expertise spans web development, mobile app development, and software design and development. My mission is to assist clients in streamlining their processes, enhancing user experiences, and ensuring they remain competitive in the ever-evolving digital landscape. Let's collaborate and build something exceptional together!
+I’m a results-driven technology professional with a passion for crafting custom solutions that empower small business owners. My expertise spans web development, mobile app development, and software design, and my mission is to help clients streamline processes, enhance user experiences, and stay competitive in the ever-evolving digital landscape. Let’s collaborate and build something exceptional together!
 
 ### 🔧 Technical Skills
 
-- **Web Development and Design:** Crafting engaging and functional websites that resonate with a target audience.
-- **Mobile App Development:** Creating user-friendly mobile applications for a seamless digital experience.
-- **IT Automation:** Streamlining IT processes to enhance operational efficiency while ensuring compliance with relevant rules and regulations.
-- **DevOps Engineering:** Implementing best practices for software development, testing, and deployment to expedite project objectives.
-- **UX/UI Design:** Elevating user experiences through intuitive and visually appealing interfaces.
+- **Web Development:** HTML5, CSS3 (SCSS, BEM), JavaScript (ES6+), React, Next.js, TypeScript, Node.js
+- **Mobile App Development:** React Native, Flutter
+- **IT Automation:** Python, Bash scripting, Google IT Automation tools
+- **DevOps Engineering:** Git, CI/CD pipelines, Docker, Kubernetes
+- **UX/UI Design:** Figma, Adobe XD, Wireframing, Prototyping
 
+### 🌟 Featured Projects
+
+- <a href="https://expo.dev/accounts/pharaohmak/projects/ship-handling/builds/43361fa9-4e31-478c-a21a-0fb0b0e438af" target="_blank">**Ship Handling Calculator App:**</a> A React Native app enabling offline ship handling calculations, improving user retention by 35%.
+- <a href="https://summarist-iota.vercel.app/)" target="_blank">**Summarist:**</a> A web app built with Next.js, TypeScript, and Firebase, featuring Stripe integration and Redux for state management, deployed on Vercel. This app improved user sign-ups by 20% and enhanced performance and uptime.
+- <a href="https://makram-internship.vercel.app/" target="_blank">**NFT Marketplace:**</a> Developed a secure NFT marketplace using React and blockchain, facilitating over 100 transactions in the first month.
 
 ### 📧 Let's Connect
 Feel free to reach out for collaboration, inquiries, or just to connect:
 - Business Email: [alchemist@sleepingpharaoh.com](mailto:alchemist@sleepingpharaoh.com)
 - Personal Email: [pharaohmak@outlook.com](mailto:pharaohmak@outlook.com)
-- Portfolio Website: [https://www.pharaohmak.github.io](https://www.pharaohmak.github.io)
+- Portfolio Website: [https://www.findmak.com](https://www.findmak.com)
 
 Let's make a positive impact through technology and innovation!
