@@ -23,9 +23,9 @@ I’m a results-driven technology professional with a passion for crafting custo
 
 ### 🌟 Featured Projects
 
-- <a href="https://expo.dev/accounts/pharaohmak/projects/ship-handling/builds/43361fa9-4e31-478c-a21a-0fb0b0e438af" target="_blank">**Ship Handling Calculator App:**</a> A React Native app enabling offline ship handling calculations, improving user retention by 35%.
 - <a href="https://summarist-iota.vercel.app/)" target="_blank">**Summarist:**</a> A web app built with Next.js, TypeScript, and Firebase, featuring Stripe integration and Redux for state management, deployed on Vercel. This app improved user sign-ups by 20% and enhanced performance and uptime.
 - <a href="https://makram-internship.vercel.app/" target="_blank">**NFT Marketplace:**</a> Developed a secure NFT marketplace using React and blockchain, facilitating over 100 transactions in the first month.
+- <a href="https://expo.dev/accounts/pharaohmak/projects/ship-handling/builds/43361fa9-4e31-478c-a21a-0fb0b0e438af" target="_blank">**Ship Handling Calculator:**</a> A React Native app enabling offline ship handling calculations, improving user retention by 35%.
 
 ### 📧 Let's Connect
 Feel free to reach out for collaboration, inquiries, or just to connect:
