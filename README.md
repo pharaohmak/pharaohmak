@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Makram Ibrahim</h1>
-<h3 align="center">Frontend Software Engineer | specializing in User Experience and Design</h3>
+<h3 align="center">Software Engineer | expertise in Web Development and Design</h3>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/alchemistmak/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sleeping.pharaoh" height="30" width="40" /></a>
 </p>
 
-I’m a results-driven technology professional with a passion for crafting custom solutions that empower small business owners. My expertise spans web development, mobile app development, and software design, and my mission is to help clients streamline processes, enhance user experiences, and stay competitive in the ever-evolving digital landscape. Let’s collaborate and build something exceptional together!
+I’m a Software Engineer passionate about building high-performance web and mobile applications. My expertise spans both frontend and backend development, utilizing technologies such as React, Next.js, TypeScript, and the MERN stack for web applications, and React Native for mobile development. I specialize in creating elegant, scalable solutions and optimizing performance with techniques like image compression, caching, and lazy loading. With proficiency in state management using Redux and backend development with Node.js, I focus on delivering robust applications that enhance user experiences. Explore my projects on GitHub to see my commitment to innovation and collaboration, and let’s connect to discuss how we can bring exciting ideas to life!
 
 ### 🔧 Technical Skills
 
