@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Makram Ibrahim</h1>
-<h3 align="center">Software Engineer | expertise in Web Development and Design</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Specializing in High-Performance Web and Mobile Applications</h3>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/alchemistmak/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sleeping.pharaoh" height="30" width="40" /></a>
 </p>
 
-I’m a Software Engineer passionate about building high-performance web and mobile applications. My expertise spans both frontend and backend development, utilizing technologies such as React, Next.js, TypeScript, and the MERN stack for web applications, and React Native for mobile development. I specialize in creating elegant, scalable solutions and optimizing performance with techniques like image compression, caching, and lazy loading. With proficiency in state management using Redux and backend development with Node.js, I focus on delivering robust applications that enhance user experiences. Explore my projects on GitHub to see my commitment to innovation and collaboration, and let’s connect to discuss how we can bring exciting ideas to life!
+I’m a Software Engineer with a passion for building high-performance web and mobile apps. I love working with React, Next.js, React Native, TypeScript, and the MERN stack to create seamless digital experiences. I’m comfortable in both frontend and backend environments and enjoy taking on full-stack challenges. I’m always up for collaboration, open-source contributions, and tackling interesting problems!
 
 ### 🔧 Technical Skills
 
