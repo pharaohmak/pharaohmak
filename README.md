@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Makram Ibrahim</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Specializing in High-Performance Web and Mobile Applications</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Specializing in Web and Mobile Development</h3>
 
 <h3 align="left">Connect with me:</h3>
 
