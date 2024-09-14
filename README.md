@@ -31,6 +31,6 @@ I’m a Software Engineer with a passion for building high-performance web and m
 Feel free to reach out for collaboration, inquiries, or just to connect:
 - Business Email: [alchemist@sleepingpharaoh.com](mailto:alchemist@sleepingpharaoh.com)
 - Personal Email: [pharaohmak@outlook.com](mailto:pharaohmak@outlook.com)
-- Portfolio Website: [https://www.findmak.com](https://www.findmak.com)
+- Portfolio Website: [https://findmak.com](https://www.findmak.com)
 
 Let's make a positive impact through technology and innovation!
