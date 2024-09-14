@@ -25,5 +25,8 @@
 
 ## 📈 GitHub Stats
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=pharaohmak)](https://github.com/pharaohmak)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pharaohmak&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=pharaohmak&theme=dark)](https://github.com/pharaohmak)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pharaohmak&theme=dark)](https://git.io/streak-stats)
+[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pharaohmak&theme=dark)](https://github.com/pharaohmak)
+
+
