@@ -15,7 +15,7 @@
   I’m comfortable in both frontend and backend environments and enjoy taking on full-stack challenges. I’m always up for collaboration, open-source contributions, and tackling interesting problems!
   
 
-## 🔧 Technical Skills
+## 💻 Technical Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
