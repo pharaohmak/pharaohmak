@@ -7,7 +7,7 @@
 <p align="right">
 <a href="https://pharaohmak.wordpress.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mak-ibrahim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/alchemistak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/alchemistmak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://findmak.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/39187429-0443-4697-955d-43b7b4832008" alt="" height="30" width="40" /></a>
 </p>
 
