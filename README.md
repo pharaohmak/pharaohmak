@@ -25,7 +25,6 @@
 
 ## 📈 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pharaohmak&theme=dark)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pharaohmak&theme=dark)
+
 
 
