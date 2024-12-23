@@ -21,9 +21,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php,react,next,express,nodejs,redux,bootstrap,sass,materialui,django,flask,angular,flutter,swift,npm,git,yarn,firebase,mongo,mysql,docker,jquery"/>
   </a>
 </p>
-
-## 📈 GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pharaohmak&theme=dark)
-
-
