@@ -11,8 +11,7 @@
 <a href="https://findmak.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/39187429-0443-4697-955d-43b7b4832008" alt="" height="30" width="40" /></a>
 </p>
 
-  I’m a Software Engineer with a passion for building high-performance web and mobile apps. I love working with ReactJS, NextJS, TypeScript, and TailwindCSS to create seamless digital experiences. I’m always up for collaboration, open-source contributions, and tackling interesting problems!
-  
+As a Software Engineer, I am driven by a passion for developing high-performance web applications. My expertise lies in utilizing ReactJS, NextJS, TypeScript, and TailwindCSS to create immersive and user-centric digital experiences. I am committed to collaborative projects, open-source contributions, and addressing challenging technical problems.  
 
 ## 💻 Technical Skills
 
