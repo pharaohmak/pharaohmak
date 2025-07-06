@@ -4,19 +4,45 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ppPEZh8n)
 [![Sponser](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/pharaohmak)
 
-<p align="right">
-<a href="https://pharaohmak.wordpress.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mak-ibrahim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/alchemistmak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://findmak.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/39187429-0443-4697-955d-43b7b4832008" alt="" height="30" width="40" /></a>
+<p align="center">
+  💻 Frontend Developer | 🧠 Lifelong Learner | ⚡ Performance Enthusiast
 </p>
 
-As a Software Engineer, I am driven by a passion for developing high-performance web applications. My expertise lies in utilizing ReactJS, NextJS, TypeScript, and TailwindCSS to create immersive and user-centric digital experiences. I am committed to collaborative projects, open-source contributions, and addressing challenging technical problems.  
+---
 
-## 💻 Technical Skills
+### 🚀 About Me
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php,react,next,express,nodejs,redux,bootstrap,sass,materialui,django,flask,angular,flutter,swift,npm,git,yarn,firebase,mongo,mysql,docker,jquery"/>
-  </a>
-</p>
+I'm a Frontend Developer with 4+ years of experience building fast, scalable, and accessible web applications. I focus on crafting intuitive digital experiences using modern tools and frameworks like:
+
+- ⚛️ **React**, **Next.js**, **TypeScript**
+- 🎨 **Tailwind CSS**, **SCSS**, **BEM**
+- 📡 REST APIs, Firebase, Stripe
+- 🚀 Performance optimization, SEO, responsive design
+- 🛠 Git, GitHub, Vercel, Agile workflows
+
+I enjoy building things that solve real-world problems and collaborating on open-source and freelance projects.
+
+---
+
+### 🔧 Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+
+---
+
+### 📫 Connect With Me
+
+- 🌍 Website: [https://findmak.com](https://findmak.com)  
+- 💼 LinkedIn: [linkedin.com/in/mak-ibrahim](https://linkedin.com/in/mak-ibrahim/)  
+- 🧠 Portfolio & case studies available on my site!
+
+---
+
+<p align="center">Thanks for visiting my GitHub! Let’s build something amazing together.</p>
